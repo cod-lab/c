@@ -17,9 +17,8 @@ void printBook(struct Books book)
 
 int main()
 {
-    struct Books
-    //two ways to store values in structures
-                book1={"kjsk","wsf",0665654}, book2={"nhjby","iuiub",154899}, book3, book4;
+    struct Books book1={"kjsk","wsf",0665654}, book2={"nhjby","iuiub",154899}, book3, book4;
+                //two ways to store values in structures
 
     strcpy(book3.title,"abc");
     strcpy(book3.author,"sdos");

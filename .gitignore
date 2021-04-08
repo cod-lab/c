@@ -1,2 +1,6 @@
-c.png
-c.jpg
+*.png
+*.jpg
+*.exe
+*.o
+*.ini
+
